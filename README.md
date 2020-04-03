@@ -10,7 +10,7 @@ This project is released under the [MIT license](LICENSE). Please make sure you 
 
 ## Usage
 
-### :exclamation: Prerequisites
+### :+1: Prerequisites
 
 You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use Victor Hugo.
 
